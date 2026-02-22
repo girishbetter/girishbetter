@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Buddy
+## 👋 Hi, Buddy
 
 Python Developer | Machine Learning Enthusiast | Exploring Generative AI
 
